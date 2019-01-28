@@ -28,6 +28,7 @@
 		1AF787B421FF4FD90047371D /* Karla2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF787B321FF4FD90047371D /* Karla2.swift */; };
 		1AF787B621FF50110047371D /* Karla3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF787B521FF50110047371D /* Karla3.swift */; };
 		1AF787B821FF506E0047371D /* Karla4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF787B721FF506E0047371D /* Karla4.swift */; };
+		1AF787BA21FF50BE0047371D /* Karla5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF787B921FF50BE0047371D /* Karla5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,7 @@
 		1AF787B321FF4FD90047371D /* Karla2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Karla2.swift; sourceTree = "<group>"; };
 		1AF787B521FF50110047371D /* Karla3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Karla3.swift; sourceTree = "<group>"; };
 		1AF787B721FF506E0047371D /* Karla4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Karla4.swift; sourceTree = "<group>"; };
+		1AF787B921FF50BE0047371D /* Karla5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Karla5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 				1AF787B321FF4FD90047371D /* Karla2.swift */,
 				1AF787B521FF50110047371D /* Karla3.swift */,
 				1AF787B721FF506E0047371D /* Karla4.swift */,
+				1AF787B921FF50BE0047371D /* Karla5.swift */,
 			);
 			path = EjemploEquipo280119;
 			sourceTree = "<group>";
@@ -317,6 +320,7 @@
 				1A136DED21FF589E00F41F0D /* Raul4.swift in Sources */,
 				1A148ED521FF4EE3003D8828 /* Alan3.swift in Sources */,
 				1AEF839D21FF4C5900D04828 /* Alan1.swift in Sources */,
+				1AF787BA21FF50BE0047371D /* Karla5.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
