@@ -15,6 +15,7 @@
 		1AEF837921FF49BA00D04828 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AEF837721FF49BA00D04828 /* LaunchScreen.storyboard */; };
 		1AEF838421FF49BA00D04828 /* EjemploEquipo280119Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AEF838321FF49BA00D04828 /* EjemploEquipo280119Tests.swift */; };
 		1AEF838F21FF49BA00D04828 /* EjemploEquipo280119UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AEF838E21FF49BA00D04828 /* EjemploEquipo280119UITests.swift */; };
+		1AEF839D21FF4C5900D04828 /* Alan1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AEF839C21FF4C5900D04828 /* Alan1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1AEF838A21FF49BA00D04828 /* EjemploEquipo280119UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EjemploEquipo280119UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AEF838E21FF49BA00D04828 /* EjemploEquipo280119UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EjemploEquipo280119UITests.swift; sourceTree = "<group>"; };
 		1AEF839021FF49BA00D04828 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1AEF839C21FF4C5900D04828 /* Alan1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alan1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				1AEF837721FF49BA00D04828 /* LaunchScreen.storyboard */,
 				1AEF837A21FF49BA00D04828 /* Info.plist */,
 				1A136DE621FF55C500F41F0D /* Raul1.swift */,
+				1AEF839C21FF4C5900D04828 /* Alan1.swift */,
 			);
 			path = EjemploEquipo280119;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				1A136DE721FF55C500F41F0D /* Raul1.swift in Sources */,
 				1AEF837121FF49BA00D04828 /* ViewController.swift in Sources */,
 				1AEF836F21FF49BA00D04828 /* AppDelegate.swift in Sources */,
+				1AEF839D21FF4C5900D04828 /* Alan1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
