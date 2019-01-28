@@ -25,6 +25,7 @@
 		1AEF838F21FF49BA00D04828 /* EjemploEquipo280119UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AEF838E21FF49BA00D04828 /* EjemploEquipo280119UITests.swift */; };
 		1AEF839D21FF4C5900D04828 /* Alan1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AEF839C21FF4C5900D04828 /* Alan1.swift */; };
 		1AF787B221FF4D2E0047371D /* Karla1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF787B121FF4D2E0047371D /* Karla1.swift */; };
+		1AF787B421FF4FD90047371D /* Karla2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF787B321FF4FD90047371D /* Karla2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		1AEF839021FF49BA00D04828 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AEF839C21FF4C5900D04828 /* Alan1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alan1.swift; sourceTree = "<group>"; };
 		1AF787B121FF4D2E0047371D /* Karla1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Karla1.swift; sourceTree = "<group>"; };
+		1AF787B321FF4FD90047371D /* Karla2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Karla2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				1A148ED421FF4EE3003D8828 /* Alan3.swift */,
 				1A148ED621FF4F21003D8828 /* Alan4.swift */,
 				1A148ED821FF4F81003D8828 /* Alan5.swift */,
+				1AF787B321FF4FD90047371D /* Karla2.swift */,
 			);
 			path = EjemploEquipo280119;
 			sourceTree = "<group>";
@@ -292,6 +295,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AF787B421FF4FD90047371D /* Karla2.swift in Sources */,
 				1A136DEF21FF58B000F41F0D /* Raul5.swift in Sources */,
 				1A148ED921FF4F81003D8828 /* Alan5.swift in Sources */,
 				1A136DE921FF583E00F41F0D /* Raul2.swift in Sources */,
