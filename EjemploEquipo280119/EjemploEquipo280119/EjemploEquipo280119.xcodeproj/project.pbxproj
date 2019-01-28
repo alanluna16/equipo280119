@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1A136DE721FF55C500F41F0D /* Raul1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A136DE621FF55C500F41F0D /* Raul1.swift */; };
+		1A136DE921FF583E00F41F0D /* Raul2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A136DE821FF583E00F41F0D /* Raul2.swift */; };
 		1AEF836F21FF49BA00D04828 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AEF836E21FF49BA00D04828 /* AppDelegate.swift */; };
 		1AEF837121FF49BA00D04828 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AEF837021FF49BA00D04828 /* ViewController.swift */; };
 		1AEF837421FF49BA00D04828 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AEF837221FF49BA00D04828 /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		1A136DE621FF55C500F41F0D /* Raul1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Raul1.swift; sourceTree = "<group>"; };
+		1A136DE821FF583E00F41F0D /* Raul2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Raul2.swift; sourceTree = "<group>"; };
 		1AEF836B21FF49BA00D04828 /* EjemploEquipo280119.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EjemploEquipo280119.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AEF836E21FF49BA00D04828 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1AEF837021FF49BA00D04828 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				1A136DE621FF55C500F41F0D /* Raul1.swift */,
 				1AEF839C21FF4C5900D04828 /* Alan1.swift */,
 				1AF787B121FF4D2E0047371D /* Karla1.swift */,
+				1A136DE821FF583E00F41F0D /* Raul2.swift */,
 			);
 			path = EjemploEquipo280119;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A136DE921FF583E00F41F0D /* Raul2.swift in Sources */,
 				1A136DE721FF55C500F41F0D /* Raul1.swift in Sources */,
 				1AEF837121FF49BA00D04828 /* ViewController.swift in Sources */,
 				1AF787B221FF4D2E0047371D /* Karla1.swift in Sources */,
